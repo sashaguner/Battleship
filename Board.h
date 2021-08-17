@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #ifndef BOARD_H
 #define BOARD_H
 
