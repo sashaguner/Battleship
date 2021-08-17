@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #ifndef SHIP_H
 #define SHIP_H
 
