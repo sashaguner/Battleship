@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #ifndef PLAYER_H
 #define PLAYER_H
 
