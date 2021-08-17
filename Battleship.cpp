@@ -1,6 +1,5 @@
 // Battleship.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Oleksandra Kasatkina
-//10/20/2019
+// (c) Oleksandra Kasatkina, 2019
 
 #include <Windows.h>	// for cursor position
 #include "Player.h"		// Player class
