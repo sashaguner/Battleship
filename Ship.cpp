@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #include "Ship.h"
 
 #include <string>
