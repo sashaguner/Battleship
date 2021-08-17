@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #include "Board.h"		// board class
 #include <iostream>		// cout, cin
 #include <iomanip>		// setw()
