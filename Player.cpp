@@ -1,3 +1,5 @@
+// (c) Oleksandra Kasatkina, 2019
+
 #include "Player.h"
 #include <string>
 using namespace std;
